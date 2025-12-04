@@ -1,0 +1,8 @@
+Reference for Overath:
+https://zenodo.org/records/15722219
+
+Reference for PPB-Affinity:
+https://zenodo.org/records/14271435
+
+PDBbind behind Paywall/Registerwall:
+https://www.pdbbind-plus.org.cn/download
