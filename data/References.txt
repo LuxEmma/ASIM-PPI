@@ -7,6 +7,6 @@ https://zenodo.org/records/14271435
 PDBbind behind Paywall/Registerwall:
 https://www.pdbbind-plus.org.cn/download
 
-Refernce for EGFR:
+Reference for EGFR:
 https://github.com/adaptyvbio/egfr_competition_1
 https://github.com/adaptyvbio/egfr_competition_2
