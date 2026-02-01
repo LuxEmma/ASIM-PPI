@@ -10,3 +10,6 @@ https://www.pdbbind-plus.org.cn/download
 Reference for EGFR:
 https://github.com/adaptyvbio/egfr_competition_1
 https://github.com/adaptyvbio/egfr_competition_2
+
+Reference for Nipah:
+https://proteinbase.com/collections/nipah-binder-competition-results
