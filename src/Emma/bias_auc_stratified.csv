@@ -1,0 +1,20 @@
+method_col,group,metric,n,ROC_AUC,CI_lo,CI_hi
+structure_method,alphafold3,plddt,70,0.86,0.755,0.944
+structure_method,predicted_model,plddt,4782,0.663,0.64,0.684
+structure_method,predicted_model,ipSAE_min,4395,0.749,0.725,0.772
+assay_method,octet,plddt,39,0.626,0.417,0.825
+assay_method,spr,plddt,1030,0.593,0.551,0.638
+assay_method,spr,ipSAE_min,1028,0.638,0.587,0.69
+assay_method,nan,plddt,3752,0.669,0.646,0.694
+assay_method,nan,ipSAE_min,3367,0.784,0.757,0.809
+design_method,Other,plddt,567,0.571,0.496,0.641
+design_method,Other,ipSAE_min,455,0.661,0.569,0.755
+design_method,bindcraft,plddt,76,0.678,0.482,0.856
+design_method,boltzgen,plddt,107,0.524,0.067,0.962
+design_method,boltzgen,ipSAE_min,107,0.6,0.199,0.972
+design_method,custom ensemble/diffusion,plddt,41,0.705,0.33,1.0
+design_method,custom plm,plddt,57,0.836,0.717,0.934
+design_method,proteinmpnn/ligandmpnn,plddt,30,0.561,0.361,0.783
+design_method,"rfdiffusion, proteinmpnn/ligandmpnn",plddt,83,0.524,0.293,0.769
+design_method,nan,plddt,3891,0.657,0.634,0.68
+design_method,nan,ipSAE_min,3806,0.769,0.746,0.79

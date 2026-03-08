@@ -1,0 +1,29 @@
+method_col,group,n,binder_%,pLDDT_binder_median,pLDDT_nonbinder_median
+structure_method,Other,10,100.0,,
+structure_method,alphafold3,95,73.7,84.45,80.12
+structure_method,electron microscopy,30,83.3,,
+structure_method,predicted_model,4785,11.3,87.45,83.1
+structure_method,solution nmr,300,70.3,,
+structure_method,x-ray diffraction,11722,87.1,,
+assay_method,Other,9,100.0,,
+assay_method,bli,135,100.0,85.06,
+assay_method,elisa,172,99.4,,
+assay_method,fl,1458,91.1,,
+assay_method,iara,125,98.4,,
+assay_method,iasp,505,96.0,,
+assay_method,itc,591,86.6,,
+assay_method,octet,64,60.9,81.07,80.12
+assay_method,other,805,90.1,,
+assay_method,ra,320,99.7,,
+assay_method,sp,336,89.3,,
+assay_method,spr,4648,61.6,84.14,82.66
+assay_method,unknown,254,99.2,,
+assay_method,nan,7520,50.6,88.65,83.24
+design_method,Other,567,8.6,84.09,82.79
+design_method,bindcraft,76,10.5,85.28,83.41
+design_method,boltzgen,107,1.9,82.46,84.56
+design_method,custom ensemble/diffusion,41,4.9,67.07,53.57
+design_method,custom plm,57,24.6,86.23,71.49
+design_method,proteinmpnn/ligandmpnn,30,43.3,90.45,89.34
+design_method,"rfdiffusion, proteinmpnn/ligandmpnn",83,7.2,77.74,81.52
+design_method,nan,15981,68.6,87.68,83.15

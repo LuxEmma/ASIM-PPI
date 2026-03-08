@@ -1,0 +1,5 @@
+method_col,metric,H,p,sig
+structure_method,plddt,0.101,0.7505,n.s.
+assay_method,plddt,25.259,0.0,***
+design_method,plddt,106.377,0.0,***
+design_method,ipSAE_min,2.36,0.3073,n.s.
