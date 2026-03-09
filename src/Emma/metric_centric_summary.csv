@@ -1,0 +1,6 @@
+metric,n_total,r_naive,r_partial,p_partial,sig,rho_partial,R2_partial,weighted_r,datasets
+pLDDT (Global),232,0.0653,0.0483,0.4637,n.s.,0.0225,0.0023,0.0208,"PPB-Affinity-AF, Adaptyv_EGFR_R1, Adaptyv_EGFR_R2, Adaptyv_NIPAH"
+PAE Interaction,60,0.2462,0.2802,0.0301,*,0.2298,0.0785,0.2674,"Adaptyv_EGFR_R1, Adaptyv_EGFR_R2"
+ipTM,153,0.1371,-0.029,0.7218,n.s.,-0.1048,0.0008,0.0386,"Adaptyv_EGFR_R2, Adaptyv_NIPAH"
+ipSAE_min (AF3),100,0.2482,0.2482,0.0128,*,0.1981,0.0616,0.2482,Adaptyv_NIPAH
+ESM2 PLL,53,-0.171,-0.171,0.2208,n.s.,-0.2263,0.0292,-0.171,Adaptyv_EGFR_R2
