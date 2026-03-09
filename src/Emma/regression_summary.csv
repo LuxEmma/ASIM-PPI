@@ -1,0 +1,14 @@
+subset,metric,n,pearson_r,pearson_p,spearman_rho,spearman_p,R2,sig_pearson,sig_spearman
+De-novo EGFR (R1+R2),pLDDT (Global),60,-0.0078,0.953,-0.1561,0.2335,0.0001,,
+De-novo EGFR (R1+R2),PAE Interaction,60,0.2462,0.058,0.1912,0.1434,0.0606,,
+De-novo EGFR (R1+R2),ipTM,53,-0.1607,0.2504,-0.1503,0.2826,0.0258,,
+De-novo EGFR (R1+R2),ESM2 PLL,53,-0.171,0.2208,-0.2263,0.1032,0.0292,,
+De-novo NIPAH,pLDDT (Global),102,-0.1997,0.0442,-0.2252,0.0229,0.0399,*,*
+De-novo NIPAH,ipTM,100,0.1443,0.1522,-0.0668,0.5087,0.0208,,
+De-novo NIPAH,ipSAE_min (AF3),100,0.2482,0.0128,0.1981,0.0482,0.0616,*,*
+PPB-Affinity-AF,pLDDT (Global),70,0.3771,0.0013,0.4965,0.0,0.1422,**,***
+All with pKD,pLDDT (Global),232,0.0653,0.3222,-0.0096,0.8838,0.0043,,
+All with pKD,PAE Interaction,60,0.2462,0.058,0.1912,0.1434,0.0606,,
+All with pKD,ipTM,153,0.1371,0.091,-0.0434,0.5944,0.0188,,
+All with pKD,ipSAE_min (AF3),100,0.2482,0.0128,0.1981,0.0482,0.0616,*,*
+All with pKD,ESM2 PLL,53,-0.171,0.2208,-0.2263,0.1032,0.0292,,
